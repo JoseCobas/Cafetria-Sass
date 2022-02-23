@@ -22,6 +22,10 @@
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
     "install": "^0.13.0",
+    "postcss": "^8.4.6",
     "sass": "^1.49.8"
-  }
+  },
+  "browserlist": [
+    "IE 10"
+  ]
 }
