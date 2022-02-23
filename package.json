@@ -18,6 +18,8 @@
   "homepage": "https://github.com/JoseCobas/Cafetria-Sass#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "install": "^0.13.0"
+    "gulp-sass": "^5.1.0",
+    "install": "^0.13.0",
+    "sass": "^1.49.8"
   }
 }
