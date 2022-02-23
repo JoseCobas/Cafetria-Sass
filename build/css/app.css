@@ -1,7 +1,21 @@
-body {
-  background-color: black;
+.header {
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
-  color: white;
+  color: #2e11ad;
+  margin-left: 50px;
+}
+
+body {
+  background-color: black;
+  font-size: 4rem;
+  display: flex;
+  gap: 2rem;
+}
+
+div {
+  display: grid;
+  grid-template-columns: 3rem;
 }

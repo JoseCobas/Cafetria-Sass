@@ -18,14 +18,15 @@
   "homepage": "https://github.com/JoseCobas/Cafetria-Sass#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
     "install": "^0.13.0",
     "postcss": "^8.4.6",
     "sass": "^1.49.8"
   },
-  "browserlist": [
-    "IE 10"
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
   ]
 }
