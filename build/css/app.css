@@ -398,11 +398,26 @@ h2 {
 
 .header {
   padding: 5rem 0;
+  position: relative;
+  color: black;
+  font-size: 2rem;
 }
 .header::before {
   content: "";
+  position: absolute;
   background-color: #000000;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0.6;
 }
+.header .contenido-header {
+  position: relative;
+}
+
 .header-inicio {
   background-image: url(../img/header_inicio.jpg);
+  color: black;
+  font-size: 2rem;
 }
